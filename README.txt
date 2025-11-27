@@ -1,0 +1,1 @@
+This is a practice repo created in order to get a good understanding of git and github.
